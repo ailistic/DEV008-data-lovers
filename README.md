@@ -40,7 +40,7 @@ hallazgos.
 A continuación los resultados de nuestro cuestionario:
 
 
-![ResultadoColores](https://imgur.com/k6d5syd)
+https://imgur.com/k6d5syd
 
 
 ![resultadoTonos](https://imgur.com/94M3gqW)
